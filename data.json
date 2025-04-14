@@ -1,0 +1,19 @@
+{
+  "scores": [50, 60, 70, 80, 90, 55],
+  "upcomingEvents": [
+    { "name": "LCA", "first": 300, "second": 200, "third": 100 },
+    { "name": "Section Carnival Stalls", "first": 300, "second": 200, "third": 100 },
+    { "name": "Shark Sank", "first": 300, "second": 200, "third": 100 },
+    { "name": "Football", "first": 250, "second": 150, "third": 0 },
+    { "name": "Frisbee", "first": 250, "second": 150, "third": 0 },
+    { "name": "Badminton", "first": 250, "second": 150, "third": 0 },
+    { "name": "Meme Wars", "first": 200, "second": 150, "third": 100 },
+    { "name": "Canvas Painting", "first": 200, "second": 150, "third": 100 },
+    { "name": "Case Comp - Prod", "first": 150, "second": 100, "third": 0 },
+    { "name": "Case Comp - Fin", "first": 150, "second": 100, "third": 0 },
+    { "name": "Case Comp - Mktg", "first": 150, "second": 100, "third": 0 },
+    { "name": "Pass the Talent Baton", "first": 150, "second": 100, "third": 50 },
+    { "name": "through the lens", "first": 150, "second": 100, "third": 50 }
+  ],
+  "completedEvents": []
+}
